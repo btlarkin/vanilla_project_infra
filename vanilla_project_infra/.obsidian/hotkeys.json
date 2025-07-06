@@ -1,9 +1,0 @@
-{
-  "templater: create new note from template": "Ctrl+Alt+T",
-  "calendar: open calendar view": "Ctrl+Shift+C",
-  "periodic-notes: open weekly note": "Ctrl+Shift+W",
-  "kanban: create new card": "Ctrl+K",
-  "obsidian-git: pull": "Ctrl+Shift+G",
-  "obsidian-git: commit all changes": "Ctrl+Alt+G"
-}
-
